@@ -3,10 +3,31 @@
     <title>shian world</title>
     <link href="https://g9502995.github.io/public-demo/./feed.xml" rel="self" />
     <link href="https://g9502995.github.io/public-demo/." />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2020-10-09T10:56:01+08:00</updated>
     <author>
         <name>shian world</name>
     </author>
     <id>https://g9502995.github.io/public-demo/.</id>
 
+    <entry>
+        <title>楓之谷v113技術</title>
+        <author>
+            <name>shian world</name>
+        </author>
+        <link href="https://g9502995.github.io/public-demo/./feng-zhi-guv113-ji-shu.html"/>
+        <id>https://g9502995.github.io/public-demo/./feng-zhi-guv113-ji-shu.html</id>
+
+        <updated>2020-10-09T10:56:01+08:00</updated>
+            <summary>
+                <![CDATA[
+                    楓之谷v113技術 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>楓之谷v113技術</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
