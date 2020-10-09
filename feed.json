@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "shian world",
+    "description": "",
+    "home_page_url": "https://g9502995.github.io/public-demo.",
+    "feed_url": "https://g9502995.github.io/public-demo./feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "shian world"
+    },
+    "items": [
+        {
+            "id": "https://g9502995.github.io/public-demo./test.html",
+            "url": "https://g9502995.github.io/public-demo./test.html",
+            "title": "test",
+            "author": {
+                "name": "shian world"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-09T10:12:33+08:00",
+            "date_modified": "2020-10-09T10:12:33+08:00"
+        }
+    ]
+}
