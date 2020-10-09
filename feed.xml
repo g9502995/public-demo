@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>shian world</title>
-    <link href="https://g9502995.github.io/public-demo./feed.xml" rel="self" />
-    <link href="https://g9502995.github.io/public-demo." />
+    <link href="https://g9502995.github.io/public-demo/feed.xml" rel="self" />
+    <link href="https://g9502995.github.io/public-demo" />
     <updated>2020-10-09T10:12:33+08:00</updated>
     <author>
         <name>shian world</name>
     </author>
-    <id>https://g9502995.github.io/public-demo.</id>
+    <id>https://g9502995.github.io/public-demo</id>
 
     <entry>
         <title>test</title>
         <author>
             <name>shian world</name>
         </author>
-        <link href="https://g9502995.github.io/public-demo./test.html"/>
-        <id>https://g9502995.github.io/public-demo./test.html</id>
+        <link href="https://g9502995.github.io/public-demo/test.html"/>
+        <id>https://g9502995.github.io/public-demo/test.html</id>
 
         <updated>2020-10-09T10:12:33+08:00</updated>
             <summary></summary>
